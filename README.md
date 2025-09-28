@@ -1,1 +1,1 @@
-Published at 9/27/2025
+Published on 9/27/2025
