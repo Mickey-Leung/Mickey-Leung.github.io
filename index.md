@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Profile picture](/Pictures/Profile_pic_AIAA.jpg){: style="width:200px; border-radius:50%;"}
+
 # Mickey Leung
 Short tagline • Researcher • Engineer
 
