@@ -12,7 +12,7 @@ Short tagline • Researcher • Engineer
 One paragraph about you.
 
 ## Projects
-- [Project A](https://github.com/Mickey-Leung/PROJECT_A) — one line.
+- [CAAF](./project-CAAF) — one line.
 - [Project B](https://github.com/Mickey-Leung/PROJECT_B) — one line.
 
 ## Contact
