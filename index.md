@@ -27,7 +27,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Skills
-**Fluid Dynamics & Modeling:** LES, turbulence/SGS modeling, reduced-order modeling, aero/hydrodynamics, 3D meshing, AI for fluids
+**Fluid Dynamics & Modeling:** LES, turbulence/SGS modeling, reduced-order modeling, aero/hydrodynamics, 3D meshing, AI for fluids  
 **Control & ML:** reinforcement learning (DRL), optimal sensor placement, attribution methods, sparse regression, neural networks  
 **Scientific Computing:** Python, MATLAB, Frotran, C/C++; data processing & visualization  
 **HPC & Workflow:** Linux, job schedulers (Slurm/PBS basics), parallel runs, experiment tracking  
@@ -49,9 +49,9 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Optimizing sensor placement with Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications.
 - Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Submitted to Proceedings of the National Academy of Sciences (PNAS).
 - Huang, X., **Leung, S. C.**, & Bae, H. J. (2025). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Under review at Physical Review Fluids. 
-- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [link] (https://doi.org/10.2514/6.2024-4148)
-- Huang, X., **Leung, S. C.**, Whitmore, M. P., Elnahhas, A., & Bae, H. J. (2024). *Consistent data-driven SGS model development for LES.* CTR Summer Program Proceedings, 395–404.  [link] (https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
-- Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [link] (https://doi.org/10.1126/sciadv.adh132)
+- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [link](https://doi.org/10.2514/6.2024-4148)
+- Huang, X., **Leung, S. C.**, Whitmore, M. P., Elnahhas, A., & Bae, H. J. (2024). *Consistent data-driven SGS model development for LES.* CTR Summer Program Proceedings, 395–404.  [link](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
+- Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [link](https://doi.org/10.1126/sciadv.adh132)
 
 ---
 
