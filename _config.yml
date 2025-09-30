@@ -1,7 +1,3 @@
 theme: jekyll-theme-minimal
 title: Mickey Leung's Personal Webpage
 description: PhD student at Caltech with a research focus on turbulence, CFD, and ML applications in flow control and sensing.
-
-<style>
-.view { display: none; }
-</style>

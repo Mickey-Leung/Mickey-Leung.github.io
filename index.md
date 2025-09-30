@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-
+<style>
+.view { display: none; }
+</style>
 
 ![Profile picture](/Pictures/Profile_pic_AIAA.jpg){: style="width:180px; border-radius:50%;"}
 
