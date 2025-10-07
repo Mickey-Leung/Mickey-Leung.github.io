@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAAF - A data-driven framework for identifying optimal sensor placement on universal target prediction tasks.
+title: CAAF - A data-driven framework for identifying optimal sensor placement on universal target prediction tasks. 
 ---
 
 # Correlation-Aware Attribution Framework (CAAF)
