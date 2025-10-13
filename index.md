@@ -38,7 +38,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 
 ## Projects
 - [Flow control & sensing for airfoils in gusts](/project-RL) — DRL strategies to mitigate lift fluctuations; LES of cylinder–airfoil setups.
-- [Correlation-Aware Attribution Framework (CAAF)](/project-caaf) — ML attribution for optimal sensor placement and quantity prediction across physics.
+- [Correlation-Aware Attribution Framework (CAAF)](/project-CAAF) — ML attribution for optimal sensor placement and quantity prediction across physics.
 - [Forecasting airfoil wake and stall transitions with Recurrent Neural Operator (RNO)](/project-tipping-point) — forecasting two tipping points, airfoil wake transition and static aerodynamic stall, in a 2-d flow over an airfoil with angle of attack that increases at a constant rate over time.
 - [Consistent data-driven SGS for LES](/project-sgs-les) — Sparse regression + NN residual correction for turbulence modeling consistency.
 - [Learned constitutive models for non-Newtonian fluids]() — NN architectures trained on simulated non-viscometric flows.
