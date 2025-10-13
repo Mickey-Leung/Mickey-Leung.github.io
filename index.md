@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-<style>
+<!-- <style>
 .view { display: none; }
-</style>
+</style> -->
 
 ![Profile picture](/Pictures/Profile_pic_AIAA.jpg){: style="width:180px; border-radius:50%;"}
 
@@ -37,16 +37,17 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Projects
-- [Flow control & sensing for airfoils in gusts](/project-les-gust-control) — DRL strategies to mitigate lift fluctuations; LES of cylinder–airfoil setups.
+- [Flow control & sensing for airfoils in gusts](/project-RL) — DRL strategies to mitigate lift fluctuations; LES of cylinder–airfoil setups.
 - [Correlation-Aware Attribution Framework (CAAF)](/project-caaf) — ML attribution for optimal sensor placement and quantity prediction across physics.
+- [Forecasting airfoil wake and stall transitions with Recurrent Neural Operator (RNO)](/project-tipping-point) — forecasting two tipping points, airfoil wake transition and static aerodynamic stall, in a 2-d flow over an airfoil with angle of attack that increases at a constant rate over time.
 - [Consistent data-driven SGS for LES](/project-sgs-les) — Sparse regression + NN residual correction for turbulence modeling consistency.
-- [Learned constitutive models for non-Newtonian fluids](/project-rheology-constitutive) — NN architectures trained on simulated non-viscometric flows.
-- [Elastocapillary morphing (single/multi-fin)](/project-elastocapillary) — Experiments & models of capillarity-driven shape change.
+- [Learned constitutive models for non-Newtonian fluids]() — NN architectures trained on simulated non-viscometric flows.
+- [Elastocapillary morphing (single/multi-fin)]() — Experiments & models of capillarity-driven shape change.
 
 ---
 
 ## Publications & Preprints
-- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Optimizing sensor placement with Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications.
+- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Smart sensor placement: A Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications.
 - Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Submitted to Proceedings of the National Academy of Sciences (PNAS).
 - Huang, X., **Leung, S. C.**, & Bae, H. J. (2025). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Under review at Physical Review Fluids. 
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [Link](https://doi.org/10.2514/6.2024-4148)
