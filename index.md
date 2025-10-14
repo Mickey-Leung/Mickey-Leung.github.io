@@ -8,7 +8,7 @@ title: Home
 
 ![Profile picture](/Pictures/Profile_pic_AIAA.jpg){: style="width:180px; border-radius:50%;"}
 
-# Mickey Leung
+# Sze Chai (Mickey) Leung
 Student • Researcher • Engineer
 
 [Home](/) | [Projects](#projects) | [Publications](#publications--preprints) | [Skills](#skills) | [Contact](#contact)
