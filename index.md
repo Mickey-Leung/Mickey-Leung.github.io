@@ -16,7 +16,7 @@ Student • Researcher • Engineer
 ---
 
 ## About
-I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advised by Prof. H. Jane Bae. My research focuses on **data-driven flow control and sensing for airfoils in gusty conditions**, optimal sensor placement, and consistent data-driven subgrid-scale (SGS) modeling for LES. Previously at UIUC I worked on rheology ML and elastocapillary morphing systems. I am deeply passionate about aerospace, automotive and transportation systems, AI applications, and other advanced technologies.
+I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advised by Prof. H. Jane Bae. My research focuses on **data-driven flow control and sensing for airfoils in gusty conditions**, optimal sensor placement, and consistent data-driven subgrid-scale (SGS) modeling for LES. Previously at UIUC I worked on ML applications in rheology and elastocapillary morphing systems. I am deeply passionate about aerospace, automotive and transportation systems, AI applications, and other advanced technologies.
 
 <p>
   <a href="CV-Mickey-2025.pdf" style="background:#0366d6;color:white;padding:8px 16px;border-radius:6px;text-decoration:none;">
