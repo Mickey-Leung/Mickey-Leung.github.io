@@ -3,14 +3,11 @@ layout: default
 title: Forecasting airfoil wake and stall transitions with Recurrent Neural Operator (RNO)
 ---
 
----
-layout: default
-title: Forecasting Airfoil Wake and Stall Transitions
----
-
 # Forecasting Airfoil Wake and Stall Transitions
 
 ![Airfoil stall transition animation](/Pictures/video_stall_transition_high_quality.gif){: style="width:100%; border-radius:8px;"}
+
+👆Airfoil stall transition animation
 
 ## Overview
 This project demonstrates how **Recurrent Neural Operators (RNO)** can be trained to forecast *aerodynamic tipping points*. Specifically, the **airfoil wake transition** and **static stall**—in a 2-D flow over an airfoil with an increasing angle of attack.  

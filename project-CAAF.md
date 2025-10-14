@@ -30,7 +30,7 @@ We applied CAAF to determine **optimal surface pressure sensor locations** on a 
 
 ![Optimal pressure sensor placement found by CAAF](/Pictures/Contour_sensors.png){: style="width:100%; border-radius:8px;"}
 
-The figure above visualizes the mean streamwise velocity field \(\langle U_1 \rangle / U_\infty\), overlaid with the 10 CAAF-selected sensor locations (green × marks). The distribution reflects physically interpretable sensing strategies that align with dominant flow structures.
+The figure above visualizes the mean streamwise velocity field, overlaid with the 10 CAAF-selected sensor locations (green × marks). The distribution reflects physically interpretable sensing strategies that align with dominant flow structures.
 
 ---
 
