@@ -47,5 +47,6 @@ The figure above visualizes the mean streamwise velocity field, overlaid with th
 Submitted to *Nature Communications*.
 
 📂 [Code and Data on GitHub →](https://github.com/Mickey-Leung/CAAF)
+📖 [Manuscript →](https://arxiv.org/abs/2510.22517)
 
 [⬅ Back to Projects](/#projects)

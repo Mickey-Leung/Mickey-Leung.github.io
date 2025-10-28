@@ -47,7 +47,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Publications & Preprints
-- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Smart sensor placement: A Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications.
+- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Smart sensor placement: A Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications. [Link](https://arxiv.org/abs/2510.22517）
 - Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Submitted to Proceedings of the National Academy of Sciences (PNAS).
 - Huang, X., **Leung, S. C.**, & Bae, H. J. (2025). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Under review at Physical Review Fluids. 
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [Link](https://doi.org/10.2514/6.2024-4148)
