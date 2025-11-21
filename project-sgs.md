@@ -12,4 +12,5 @@ Short blurb: Developed SGS stress models via **sparse regression + neural networ
 - Benchmarked on canonical turbulent flows.
 
 ## Links
-- (CTR proceedings / manuscript)
+- 📖 [Manuscript →](https://arxiv.org/abs/2511.15775)
+- 📖 [Comference Procedding →](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
