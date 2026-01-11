@@ -16,7 +16,7 @@ Student • Researcher • Engineer
 ---
 
 ## About
-I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advised by Prof. H. Jane Bae. My research focuses on **data-driven flow control and sensing for airfoils in gusty conditions**, optimal sensor placement, and consistent data-driven subgrid-scale (SGS) modeling for LES. Previously at UIUC I worked on ML applications in rheology and elastocapillary morphing systems. I am deeply passionate about aerospace, automotive and transportation systems, AI applications, and other advanced technologies.
+I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advised by Prof. H. Jane Bae. My research focuses on **data-driven flow control and sensing for airfoils in gusty conditions**, optimal sensor placement, and consistent data-driven subgrid-scale (SGS) modeling for LES. Previously at UIUC I worked on elastocapillary morphing systems and ML applications in rheology. I am deeply passionate about aerospace, automotive and transportation systems, AI applications, and other advanced technologies.
 
 <p>
   <a href="CV-Leung-2025.pdf" style="background:#0366d6;color:white;padding:8px 16px;border-radius:6px;text-decoration:none;">
@@ -27,10 +27,10 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Skills
-**Fluid Dynamics & Modeling:** LES, turbulence/SGS modeling, reduced-order modeling, aero/hydrodynamics, 3D meshing, AI for fluids  
-**Control & ML:** reinforcement learning (DRL), optimal sensor placement, attribution methods, sparse regression, neural networks  
-**Scientific Computing:** Python, MATLAB, Frotran, C/C++; data processing & visualization  
-**HPC & Workflow:** Linux, job schedulers (Slurm/PBS basics), parallel runs, experiment tracking  
+**Fluid Dynamics & Modeling:** AI for fluids, LES, turbulence/SGS modeling, reduced-order modeling, aero/hydrodynamics, 3D meshing   
+**Control & ML:** reinforcement learning (DRL), neural networks, optimal sensor placement, attribution methods, sparse regression   
+**Scientific Computing:** Python, MATLAB, Fortran, C/C++; data processing & visualization  
+**HPC & Workflow:** Linux, job schedulers (Slurm/PBS basics), parallel programming
 **CAD modeling & drawings:** ProE/Creo, Solidworks, Fusion 360
 **Communication:** academic writing, presentations, figure preparation, video editing
 
@@ -48,8 +48,8 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 
 ## Publications & Preprints
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Smart sensor placement: A Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications. [Link](https://arxiv.org/abs/2510.22517）
-- Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Submitted to Proceedings of the National Academy of Sciences (PNAS).
-- Huang, X., **Leung, S. C.**, & Bae, H. J. (2025). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Under review at Physical Review Fluids. 
+- Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Under review at Proceedings of the National Academy of Sciences (PNAS). [Link](https://arxiv.org/abs/2308.08794)
+- Huang, X., **Leung, S. C.**, & Bae, H. J. (2025). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Accepted by Physical Review Fluids. [Link](https://arxiv.org/abs/2511.15775)
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [Link](https://doi.org/10.2514/6.2024-4148)
 - Huang, X., **Leung, S. C.**, Whitmore, M. P., Elnahhas, A., & Bae, H. J. (2024). *Consistent data-driven SGS model development for LES.* CTR Summer Program Proceedings, 395–404.  [Link](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
 - Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [Link](https://doi.org/10.1126/sciadv.adh132)
