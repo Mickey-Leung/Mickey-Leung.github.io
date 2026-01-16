@@ -10,6 +10,3 @@ Short blurb: Built and fine-tuned NN architectures to learn rheological constitu
 ## What I did
 - Data generation and model training.
 - Generalization tests on unseen flow types.
-
-## Links
-- (Add repo/paper link)
