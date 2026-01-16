@@ -40,7 +40,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 - [Flow control & sensing for airfoils in gusts](/project-RL) — DRL strategies to mitigate lift fluctuations; LES of cylinder–airfoil setups.
 - [Correlation-Aware Attribution Framework (CAAF)](/project-CAAF) — ML attribution for optimal sensor placement and quantity prediction across physics.
 - [Forecasting airfoil wake and stall transitions with Recurrent Neural Operator (RNO)](/project-tipping-point) — forecasting two tipping points, airfoil wake transition and static aerodynamic stall, in a 2-d flow over an airfoil with angle of attack that increases at a constant rate over time.
-- [Consistent data-driven SGS for LES]() — Sparse regression + NN residual correction for turbulence modeling consistency.
+- [Consistency Requirements for Data-Driven SGS Modeling]() — Sparse regression + NN residual correction for turbulence modeling consistency.
 - [Learned constitutive models for non-Newtonian fluids]() — NN architectures trained on simulated non-viscometric flows.
 - [Elastocapillary morphing (single/multi-fin)]() — Experiments & models of capillarity-driven shape change.
 
@@ -49,7 +49,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ## Publications & Preprints
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025). Smart sensor placement: A Correlation-Aware Attribution Framework for real-world data modeling. Submitted to Nature Communications. [Link](https://arxiv.org/abs/2510.22517）
 - Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025). Tipping point forecasting in non-stationary dynamics on function spaces. Under review at Proceedings of the National Academy of Sciences (PNAS). [Link](https://arxiv.org/abs/2308.08794)
-- 3.	Huang, X., Leung, S. C., & Bae, H. J. (2026). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Physical Review Fluids, 11(1), 014602.  [Link](https://doi.org/10.1103/yykb-6rvf)
+- Huang, X., Leung, S. C., & Bae, H. J. (2026). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Physical Review Fluids, 11(1), 014602.  [Link](https://doi.org/10.1103/yykb-6rvf)
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [Link](https://doi.org/10.2514/6.2024-4148)
 - Huang, X., **Leung, S. C.**, Whitmore, M. P., Elnahhas, A., & Bae, H. J. (2024). *Consistent data-driven SGS model development for LES.* CTR Summer Program Proceedings, 395–404.  [Link](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
 - Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [Link](https://doi.org/10.1126/sciadv.adh132)
