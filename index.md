@@ -52,7 +52,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 - Huang, X., **Leung, S. C.**, & Bae, H. J. (2026). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Physical Review Fluids, 11(1), 014602.  [Link](https://doi.org/10.1103/yykb-6rvf)
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement.* AIAA Aviation & ASCEND 2024, p.4148.  [Link](https://doi.org/10.2514/6.2024-4148)
 - Huang, X., **Leung, S. C.**, Whitmore, M. P., Elnahhas, A., & Bae, H. J. (2024). *Consistent data-driven SGS model development for LES.* CTR Summer Program Proceedings, 395–404.  [Link](https://web.stanford.edu/group/ctr/ctrsp24/v04_HUANG.pdf)
-- Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [Link](https://doi.org/10.1126/sciadv.adh132)
+- Ha, J., Kim, Y. S., Li, C., Hwang, J., **Leung, S. C.**, Siu, R., & Tawfick, S. (2023). *Polymorphic display & texture integrated systems controlled by capillarity.* Science Advances, 9(26), eadh1321. [Link](https://www.science.org/doi/10.1126/sciadv.adh1321)
 
 ---
 
