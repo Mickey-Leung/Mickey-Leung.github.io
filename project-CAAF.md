@@ -43,7 +43,7 @@ The figure above visualizes the mean streamwise velocity field, overlaid with th
 
 ## Reference
 **Leung, S. C.**, Zhou, D., & Bae, H. J. (2025).  
-*Smart Sensor Placement: A Correlation-Aware Attribution Framework (CAAF) for Real-World Data Modeling.*  
+*Data-driven Sensor Placement for Predictive Applications: A Correlation-Assisted Attribution Framework (CAAF).*  
 Submitted to *Communications: AI & Computing*.
 
 📂 [Code and Data on GitHub →](https://github.com/Mickey-Leung/CAAF)
