@@ -7,66 +7,58 @@ title: Forecasting airfoil wake and stall transitions with Recurrent Neural Oper
 
 ![Airfoil stall transition animation](/Pictures/video_stall_transition_high_quality.gif){: style="width:100%; border-radius:8px;"}
 
-👆Airfoil stall transition animation
+*Airfoil stall transition as the angle of attack increases.*
 
 ## Overview
-This project demonstrates how **Recurrent Neural Operators (RNO)** can be trained to forecast *aerodynamic tipping points*. Specifically, the **airfoil wake transition** and **static stall**—in a 2-D flow over an airfoil with an increasing angle of attack.  
-The study is part of a broader framework for **tipping-point forecasting in non-stationary dynamical systems**, capable of learning physics-aware models directly from pre-tipping data.
+This work uses a **Recurrent Neural Operator (RNO)** to forecast two important aerodynamic transitions from data collected before either event occurs:
 
-<!-- ---
+- **Wake transition:** vortex shedding changes from one vortex at a time to vortex pairs.
+- **Static stall:** a small increase in angle of attack causes a rapid loss of lift.
 
-## Motivation
-In aerodynamics, wake transition and stall mark critical bifurcations in the flow regime:
-- **Wake transition:** the shift from single-vortex to vortex-pair shedding.
-- **Static stall:** the abrupt loss of lift following a small increase in angle of attack.
-
-Accurately predicting these transitions can help prevent loss of lift and improve active control in aircraft and turbine systems. Traditional solvers require costly simulations over long time horizons to capture such events. RNOs offer a **data-efficient, physics-informed alternative**. -->
+The full paper studies several non-stationary systems; this page focuses on the airfoil case, for which I generated the simulation data.
 
 ---
 
-## Methodology
-We trained separate RNO models on pre-tipping flow data at different Reynolds numbers:
+## Airfoil Simulations
+I generated two-dimensional large-eddy simulations of incompressible flow over an airfoil while its angle of attack increased at a constant rate. The data cover three forecasting settings:
 
-1. **Re = 1000:** static stall only  
-2. **Re = 5000:** wake transition  
-3. **Re = 5000:** combined wake and stall transitions  
+1. Static stall at a Reynolds number of 1,000.
+2. Wake transition at a Reynolds number of 5,000.
+3. Static stall after the wake transition at a Reynolds number of 5,000.
 
-Data is generated from **LES (Large-Eddy Simulation)** governed by the incompressible Navier–Stokes equations.  
-The **divergence-free condition** ∇·u = 0 was used as the *physics constraint* to quantify deviations from physical laws, forming the basis of a physics-loss metric.
+These cases form a progression from a relatively smooth low-Reynolds-number flow to a more turbulent flow with two successive transitions.
 
-At inference time, the model’s **physics loss** was monitored:
-- When the loss exceeded a conformal threshold, a tipping point was forecast.  
-- The method was validated across multiple Re values to assess zero-shot generalization.
+---
+
+## Forecasting Approach
+The RNO learns the time evolution of the flow using only pre-transition data. During a forecast, the method monitors how strongly the predicted velocity field violates mass conservation. A statistically calibrated threshold converts that physics error into an early-warning signal with an uncertainty guarantee.
+
+Only the divergence-free condition is needed; the forecasting system does not require the complete governing equations or examples from after the transition during training.
 
 ---
 
 ## Results
-- RNO achieved accurate forecasts for both wake and stall transitions well before the tipping events occurred.  
-- The model maintained stable long-term predictions compared with Markov Neural Operators (MNO) and recurrent neural networks (RNN).  
-- Generalization tests showed RNO could forecast unseen regimes. For example, predicting Re = 5000 stall transitions after training only on Re = 1000 data.
+- RNO accurately forecast both wake transition and static stall before they occurred.
+- It maintained more reliable long-range predictions than the tested Markov Neural Operator and recurrent neural network baselines.
+- A model trained only on pre-stall data at a Reynolds number of 1,000 successfully forecast both transitions at a Reynolds number of 5,000 without retraining.
+- The framework also forecast the later stall event after being trained only on data before the earlier wake transition.
 
-These results confirm that RNOs scale to complex spatiotemporal PDE systems, enabling early detection of aerodynamic instabilities with minimal physical priors.
-
----
-
-<!-- ---
-
-## Key Takeaways
-- Robust to **approximate physics** (e.g., conservation laws instead of full PDEs).  
-- Scalable to **high-dimensional turbulent flows**.  
-- Capable of **zero-shot forecasting** across unseen flow regimes.  
-- Offers a promising approach for real-time **stall prediction and flow-control applications**. -->
-
-## My contribution
-- Data generation through LES and post-processing.
-- Manuscript writing.
+These results show that a learned dynamics model and a lightweight physics check can provide early warning of aerodynamic regime changes, including conditions not represented during training.
 
 ---
 
-## Citation
-**Liu-Schiaffini, M., Singer, C. E., Kovachki, N., Leung, S. C., Schneider, T., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2025).**  
-*Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces.*  
-*PNAS (submitted).*
+## My Contribution
+- Generated and post-processed the large-eddy simulation data for the airfoil study.
+- Provided aerodynamic domain expertise and contributed to manuscript writing.
+
+---
+
+## Reference
+**Liu-Schiaffini, M., Singer, C. E., Kovachki, N., Leung, S. C., Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2026).**<br>
+*Tipping Point Forecasting in Non-Stationary Dynamics on Function Spaces.*<br>
+Under review at *Proceedings of the National Academy of Sciences (PNAS)*.
+
+📖 [Preprint →](https://arxiv.org/abs/2308.08794)
 
 ---
 
