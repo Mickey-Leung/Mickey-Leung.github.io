@@ -37,7 +37,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Projects
-- [Flow control & sensing for airfoils in gusts](/project-RL) — DRL strategies to mitigate lift fluctuations; LES of cylinder–airfoil setups.
+- [Reinforcement learning control of airfoil lift in gusts](/project-RL) — A sparse-sensor controller using distributed surface jets reduced simulated lift variability by 18.2%.
 - [Correlation-Assisted Attribution Framework (CAAF)](/project-CAAF) — A machine-learning framework that selects informative, non-redundant sensors for prediction tasks.
 - [Forecasting airfoil wake and stall transitions with a Recurrent Neural Operator (RNO)](/project-tipping-point) — Forecasting aerodynamic transitions from pre-transition simulation data and a minimal physics constraint.
 - [Consistency Requirements for Data-Driven SGS Modeling](/project-sgs) — Sparse regression + NN residual correction for turbulence modeling consistency.
