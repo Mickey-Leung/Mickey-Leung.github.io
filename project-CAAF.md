@@ -50,10 +50,10 @@ CAAF performed best in the sparse-sensor regime across the five flow configurati
 
 ## Reference
 **Leung, S. C.**, Zhou, D., & Bae, H. J. (2026).<br>
-*Data-driven sensor placement for predictive applications: A correlation-assisted attribution framework (CAAF).*<br>
-Accepted at *Communications AI & Computing*.
+*Data-driven sensor placement for predictive applications: a Correlation-Assisted Attribution Framework (CAAF).*<br>
+*Communications AI & Computing*, **1**, Article 8 (2026).
 
 📂 [Code and data on GitHub →](https://github.com/Mickey-Leung/CAAF)<br>
-📖 [Preprint →](https://arxiv.org/abs/2510.22517)
+📖 [Published article →](https://doi.org/10.1038/s44488-026-00011-1)
 
 [⬅ Back to Projects](/#projects)

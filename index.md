@@ -19,7 +19,7 @@ Ph.D. Candidate • Researcher • Engineer
 I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advised by Prof. H. Jane Bae. My research focuses on **data-driven flow control and sensing for airfoils in gusty conditions**, optimal sensor placement, and consistent data-driven subgrid-scale (SGS) modeling for large-eddy simulation. In summer 2026, I am also a research intern at Mitsubishi Electric Research Laboratories, where I integrate computational fluid dynamics solvers with reinforcement learning for active flow control. Previously at UIUC, I worked on elastocapillary morphing systems and machine-learning applications in rheology.
 
 <p>
-  <a href="CV-Leung-Aug2026.docx" style="background:#0366d6;color:white;padding:8px 16px;border-radius:6px;text-decoration:none;">
+  <a href="CV-Leung-Aug2026.pdf" style="background:#0366d6;color:white;padding:8px 16px;border-radius:6px;text-decoration:none;">
     📄 Download CV (August 2026)
   </a>
 </p>
@@ -47,7 +47,7 @@ I’m a Ph.D. candidate in Mechanical Engineering at Caltech (M.S. 2024), advise
 ---
 
 ## Publications & Preprints
-- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2026). Data-driven sensor placement for predictive applications: A correlation-assisted attribution framework (CAAF). Accepted at *Communications AI & Computing*. [Link](https://arxiv.org/abs/2510.22517)
+- **Leung, S. C.**, Zhou, D., & Bae, H. J. (2026). Data-driven sensor placement for predictive applications: a Correlation-Assisted Attribution Framework (CAAF). *Communications AI & Computing*, 1, Article 8. [Link](https://doi.org/10.1038/s44488-026-00011-1)
 - Liu-Schiaffini, M., Singer, C. E., Kovachki, N., **Leung, S. C.**, Bae, H. J., Azizzadenesheli, K., & Anandkumar, A. (2026). Tipping point forecasting in non-stationary dynamics on function spaces. Under review at *Proceedings of the National Academy of Sciences (PNAS)*. [Link](https://arxiv.org/abs/2308.08794)
 - Huang, X., **Leung, S. C.**, & Bae, H. J. (2026). Consistency requirement of data-driven subgrid-scale modeling in large-eddy simulation. Physical Review Fluids, 11(1), 014602.  [Link](https://doi.org/10.1103/yykb-6rvf)
 - **Leung, S. C.**, Zhou, D., & Bae, H. J. (2024). *Integrated gradients for optimal surface pressure sensor placement for lift prediction of an airfoil subject to gust.* AIAA Aviation Forum and ASCEND 2024, p. 4148. [Link](https://doi.org/10.2514/6.2024-4148)
